@@ -1,0 +1,43 @@
+body{
+    background-color: #3B82F6;
+}
+
+.heading {
+    text-align: center;
+    font-size: 40px;
+    
+    
+}
+.heading.h3{
+    background-color: chartreuse;
+}
+
+#button-start {
+    background-color: #FCD34D;
+    border: none;
+    width: 4rem;
+    padding: .2rem 1rem;
+    display: inline-block;
+    cursor: pointer;
+    font-size: large;
+    
+}
+
+#button-stop {
+    background-color: #FCD34D;
+    border: none;
+    width: 4rem;
+    padding: .2rem 1rem;
+    display: inline-block;
+    cursor: pointer;
+    font-size: large;
+}
+
+#button-reset {
+    background-color: #FCD34D;
+    border: none; 
+    width: 4rem;
+    padding: .2rem 1rem;
+    cursor: pointer;
+    font-size: large;
+}
